@@ -1,4 +1,4 @@
-﻿# 企业级中文需求库 —— DOORS 全链路使用文档
+# 企业级中文需求库 —— DOORS 全链路使用文档
 
 > 版本：v1.0 ｜ 生成时间：2026-11-06 ｜ 环境：IBM Rational DOORS 9.6.1.11 + Windows PowerShell 5.1
 >
@@ -239,12 +239,10 @@ SEC         113       113        90        90        23        23  OK
 
 打开 DOORS 客户端，刷新后即可看到：
 
-- 根目录下 5 个项目文件夹：`output/screenshot-root.png`
-- 模块内 章节标题 + 需求对象（中文正常显示）：`output/screenshot-module.png`
+- 根目录下 5 个项目文件夹
+- 模块内 章节标题 + 需求对象（中文正常显示）
 
-![根目录](../output/screenshot-root.png)
-
-![模块内容](../output/screenshot-module.png)
+> 验证截图未随仓库提供（原 `output/` 目录不在版本库中）。
 
 ---
 
